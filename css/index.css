@@ -23,7 +23,7 @@ body {
 }
 
 @keyframes fadeIn {
-    form {
+    from {
         opacity: 0;
     }
 
